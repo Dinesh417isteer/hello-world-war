@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello Isteerians!</title>
+<title>Hello MAHITEJ </title>
 </head>
 <body>
 	<h1>Hello Isteerians </h1>
