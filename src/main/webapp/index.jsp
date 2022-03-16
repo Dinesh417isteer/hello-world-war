@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 	<h1>Hello Dinesh</h1>
 =======
-	<h1>Hello MAHI </h1>
+	<h1>Hello MAH</h1>
 >>>>>>> bdac4226ce016de66f75fd6daca3b06931ec60a5
 	<p>
 		It is now
